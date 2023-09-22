@@ -12,4 +12,5 @@ The Minerva toolset currently consists of the following tools:
 
 3. CARGO, a graph-partitioning tool based on community detection: [https://github.com/IBM/codenet-minerva-cargo](https://github.com/IBM/codenet-minerva-cargo)
 
-We anticipate to release additional tools in the future and welcome community contributions. We also plan to run a series of coding challenges designed around the Minerva toolset and AI-driven application modernization in general. The first challenge is expected to run in the first half of 2023; for more details, see the [initial coding challenge](https://ibm.biz/min4mod-challenge).
+We anticipate to release additional tools in the future and welcome community contributions.
+<!-- We also plan to run a series of coding challenges designed around the Minerva toolset and AI-driven application modernization in general. The first challenge is expected to run in the first half of 2023; for more details, see the [initial coding challenge](https://ibm.biz/min4mod-challenge). -->
